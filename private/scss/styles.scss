@@ -80,7 +80,7 @@ h2{
 
 .heroSecondaryFluff{
   //hero image
-  background-image:url(../assets/img/volunteerImg.jpg);
+  background-image:url(../assets/img/fieldBattle.jpg);
 
   //Height
   height:400px;
@@ -96,7 +96,7 @@ h2{
 .body1Fluff{
     margin-top: 25px;
     margin-bottom: 0;
-    background-image:url(../assets/img/fieldBattle.jpg);
+    background-image:url(../assets/img/volunteerImg.jpg);
 
     //Parallax
     background-attachment: fixed;
@@ -111,6 +111,9 @@ h2{
 }
 .containerTextPadding{
   padding-top: 14px;
+  .cocbutton{
+    margin-bottom: 10px;
+  }
 }
 .container .jumbotron{
     border-radius: 0px;

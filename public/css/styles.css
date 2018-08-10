@@ -54,7 +54,7 @@ h2 {
   background-size: cover; }
 
 .heroSecondaryFluff {
-  background-image: url(../assets/img/volunteerImg.jpg);
+  background-image: url(../assets/img/fieldBattle.jpg);
   height: 400px;
   background-attachment: fixed;
   background-position: center;
@@ -64,7 +64,7 @@ h2 {
 .body1Fluff {
   margin-top: 25px;
   margin-bottom: 0;
-  background-image: url(../assets/img/fieldBattle.jpg);
+  background-image: url(../assets/img/volunteerImg.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -73,6 +73,8 @@ h2 {
 
 .containerTextPadding {
   padding-top: 14px; }
+  .containerTextPadding .cocbutton {
+    margin-bottom: 10px; }
 
 .container .jumbotron {
   border-radius: 0px;
